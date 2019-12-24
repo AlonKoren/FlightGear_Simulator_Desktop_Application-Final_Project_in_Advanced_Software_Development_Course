@@ -1,0 +1,12 @@
+[submodule "PTM_project-Milestones1-3"]
+	path = PTM_project-Milestones1-3
+	url = https://github.com/AlonKoren/PTM_project-Milestones1-3.git
+	branch = master
+[submodule "PTM_project-Milestone4-interpreter_and_parser"]
+	path = PTM_project-Milestone4-interpreter_and_parser
+	url = https://github.com/AlonKoren/PTM_project-Milestone4-interpreter_and_parser.git
+	branch = master
+[submodule "PTM_project-Milestone5-Flight_Simulator_Desktop_Application"]
+	path = PTM_project-Milestone5-Flight_Simulator_Desktop_Application
+	url = https://github.com/AlonKoren/PTM_project-Milestone5-Flight_Simulator_Desktop_Application.git
+	branch = master
